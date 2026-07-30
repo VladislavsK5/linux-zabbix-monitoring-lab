@@ -21,7 +21,7 @@ Not complete
 
 ## Progress
 
-- [ ] Create Ubuntu Server virtual machine
+- [x] Create Ubuntu Server virtual machine
 - [ ] Configure network
 - [ ] Install Docker
 - [ ] Install Docker Compose
