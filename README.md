@@ -24,7 +24,7 @@ Not complete
 - [x] Create Ubuntu Server virtual machine
 - [x] Configure network
 - [x] Install Docker
-- [] Install Docker Compose
+- [x] Install Docker Compose
 - [ ] Deploy Zabbix Server
 - [ ] Configure Zabbix Agent
 - [ ] Add monitored host
