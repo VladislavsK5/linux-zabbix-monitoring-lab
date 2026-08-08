@@ -25,10 +25,10 @@ Not complete
 - [x] Configure network
 - [x] Install Docker
 - [x] Install Docker Compose
-- [ ] Deploy Zabbix Server
-- [ ] Configure Zabbix Agent
-- [ ] Add monitored host
-- [ ] Configure monitoring
+- [x] Deploy Zabbix Server
+- [x] Configure Zabbix Agent
+- [x] Add monitored host
+- [x] Configure monitoring
 - [ ] Create triggers
 - [ ] Test alerts
 - [ ] Document the project
